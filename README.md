@@ -1,5 +1,5 @@
 # QM1
-Schrodinger's equation-> probability of quantum tunneling for NF
+Schrodinger's equation-> probability of quantum tunneling for nuclear fusion
 
 TO BE ADDED:
 1. plasma manipulation
